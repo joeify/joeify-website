@@ -285,6 +285,8 @@ span {
 .heading {
   text-align: center;
   font-size: 7rem;
+  margin-top: 5rem;
+  padding: 0.5em;
 }
 .skills-container {
   display: grid;
@@ -692,4 +694,5 @@ span {
   .skills-container {
     grid-template-columns: repeat(1,1fr);
   }
+
 }
